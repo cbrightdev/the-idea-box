@@ -1,0 +1,17 @@
+.header {
+    background-image:url("images/blueprint.png");
+    text-align: center;
+    padding: 20px;
+    border: solid;
+    border-radius: 15px;
+  }
+  .navbar {
+    background-color: #91acad;
+    border: solid;
+    border-radius: 15px;
+    color:black;
+  }
+
+  .featuredCourse{
+      text-align:center;
+  }
